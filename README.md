@@ -7,3 +7,7 @@ npm run dev
 cd backend
 pip install -r requirements.txt
 python app.py
+
+
+check this new method also:
+https://github.com/AK067CSE/Intern/tree/newmethod
